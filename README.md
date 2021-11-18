@@ -2,10 +2,10 @@ Hi there! 👋🏼
 
 My name is Hothyfa, I'm a junior web developer who's looking for new opportunities!
 
-💻 I'm looking for a job in (Javascript, React / React Native, AWS)
-🌴 I'm currently learning Typescript and improving React, AWS
-💬 Ask me about anything, i am more thank happy to help!
-📫 How to reach me: e-mail: h.s.elbeera@gmail.com
+💻 I'm looking for a job in (Javascript, React / React Native, AWS) <br />
+🌴 I'm currently learning Typescript and improving React, AWS <br />
+💬 Ask me about anything, i am more thank happy to help! <br />
+📫 How to reach me: e-mail: h.s.elbeera@gmail.com <br />
 😄 Pronouns: He / Him
 
 🛠 Skills:
