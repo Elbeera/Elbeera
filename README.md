@@ -16,6 +16,7 @@ Experienced with:
 3. Git
 4. React / React Native
 5. AWS (API Gateway, DynamoDB, Lambda)
+7. HTML / CSS
 
 Familiar with:
 1. Typescript
