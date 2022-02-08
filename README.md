@@ -2,7 +2,7 @@ Hi there! 👋🏼
 
 My name is Hothyfa, I'm a Software Developer who's looking for new opportunities!
 
-💻 (Javascript, React / React Native, AWS) <br />
+💻 (Javascript, React / React Native, Angular, and AWS) <br />
 🌴 I'm currently learning Typescript <br />
 💬 Ask me about anything, i am more than happy to help! <br />
 📫 How to reach me: e-mail: h.s.elbeera@gmail.com <br />
