@@ -1,6 +1,6 @@
 Hi there! 👋🏼
 
-My name is Hothyfa, I'm a Software Developer who's looking for new opportunities!
+My name is Hothyfa, I'm a Software Developer!
 
 💻 (Javascript, React / React Native, Angular, and AWS) <br />
 🌴 I'm currently learning Typescript <br />
