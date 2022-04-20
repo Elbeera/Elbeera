@@ -9,7 +9,6 @@ My name is Hothyfa, I'm a Software Developer!
 
 🛠 Skills:
 
-Experienced with:
 1. Javascript
 2. PSQL
 3. Git
