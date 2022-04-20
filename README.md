@@ -8,7 +8,6 @@ My name is Hothyfa, I'm a Software Developer!
 📫 How to reach me: e-mail: h.s.elbeera@gmail.com <br />
 
 🛠 Skills:
-
 1. Javascript
 2. PSQL
 3. Git
