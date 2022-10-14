@@ -14,4 +14,3 @@ My name is Hothyfa, I'm a Software Developer!
 4. React / React Native
 5. AWS (API Gateway, DynamoDB, Lambda, S3)
 7. HTML / CSS
-8. Docker
