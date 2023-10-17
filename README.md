@@ -2,18 +2,20 @@ Hi there! 👋🏼
 
 My name is Hothyfa, I'm a Software Developer!
 
-💻 (Javascript, Python, React / React Native, Angular, and AWS) <br />
-🌴 I'm currently learning Typescript <br />
+💻 (TypeScript, JavaScript, Python, React / React Native, Angular, and AWS) <br />
 💬 Ask me about anything, i am more than happy to help! <br />
 📫 How to reach me: e-mail: h.s.elbeera@gmail.com <br />
 
 🛠 Skills:
-1. Javascript
-2. Python
-3. Angular
-4. React / React Native
-5. AWS (EC2, API Gateway, DynamoDB, Cognito, Lambda, S3, Cloudwatch)
-6. PSQL
-7. TSQL
-8. Git
-10. HTML / CSS
+1. JavaScript
+2. TypeScript
+3. Python
+4. Angular
+5. React / React Native
+6. Amazon Web Services
+7. Express.JS
+8. Fastify
+9. PostgreSQL
+10. TSQL
+11. Git
+12. HTML / CSS
