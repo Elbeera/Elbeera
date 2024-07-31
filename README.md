@@ -2,7 +2,7 @@ Hi there! 👋🏼
 
 My name is Hothyfa, I'm a Software Developer!
 
-💻 (TypeScript, JavaScript, Python, React / React Native, Angular, and AWS) <br />
+💻 (TypeScript, JavaScript, Python, React / React Native, Angular, Express, Fastify, Nest, SQL and AWS) <br />
 💬 Ask me about anything, i am more than happy to help! <br />
 📫 How to reach me: e-mail: h.s.elbeera@gmail.com <br />
 
