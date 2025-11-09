@@ -36,9 +36,9 @@ To build robust, secure, scalable, and user-centric software while continuously 
 ## 💼 Professional Experience  
 
 ### **Claimsgate** (June 2025 - Present)
-**Software Engineer | Full Stack**
-- Joined a fast-scaling software company focused on digital claim management solutions, leading the end-to-end development of core products from initial concept through architecture and deployment. Lead design and technology decisions, ensuring scalable, high-performance solutions. Collaborate with cross-functional teams to optimise systems, streamline processes, and deliver projects on time while maintaining high standards.
-**Key Achievements**
+#### **Software Engineer | Full Stack**
+Joined a fast-scaling software company focused on digital claim management solutions, leading the end-to-end development of core products from initial concept through architecture and deployment. Lead design and technology decisions, ensuring scalable, high-performance solutions. Collaborate with cross-functional teams to optimise systems, streamline processes, and deliver projects on time while maintaining high standards.
+#### **Key Achievements**
 - Designed and implemented scalable, cost-optimised architectures across AWS and Azure, improving performance and reducing operational costs.
 - Designed APIs with strict validation and encryption best practices to prevent vulnerabilities.
 - Designed and deployed Docker-based containerised microservices using Node.js, improving scalability, reliability, and cost eﬃciency.
@@ -47,9 +47,9 @@ To build robust, secure, scalable, and user-centric software while continuously 
 - Implemented monitoring and logging solutions to track application performance and proactively identify system issues.
   
 ### **Shoory LLC** (Feb 2024 - Feb 2025)
-**Software Engineer | Full Stack**
-- Key contributor at an early stage startup building a multi-service platform for ride hailing, food delivery, and parcel logistics. I played a key role in designing and developing the platform from the ground up, building both Web and Mobile applications for ride-hailing, food delivery, and parcel services. Working alongside another Full Stack Developer, I implemented real-time tracking, secure authentication, and automated CI/CD pipelines to enhance system performance, scalability, and user experience.
-**Key Achievements**
+#### **Software Engineer | Full Stack**
+Key contributor at an early stage startup building a multi-service platform for ride hailing, food delivery, and parcel logistics. I played a key role in designing and developing the platform from the ground up, building both Web and Mobile applications for ride-hailing, food delivery, and parcel services. Working alongside another Full Stack Developer, I implemented real-time tracking, secure authentication, and automated CI/CD pipelines to enhance system performance, scalability, and user experience.
+#### **Key Achievements**
 - Designed and developed a multi-service platform for ride-requesting, food delivery, and parcel services using React, React Native, Node.js, Fastify, and MongoDB.
 - Implemented secure authentication, authorisation, and data protection mechanisms to ensure compliance and user safety.
 - Built and deployed real-time tracking systems, improving user engagement.
@@ -59,9 +59,9 @@ To build robust, secure, scalable, and user-centric software while continuously 
 - Maintained comprehensive technical documentation.
 
 ### **Union Realtime** (Oct 2020 - Jan 2024)
-**Software Engineer | Full Stack**
-- I played a key role in developing and optimising scalable software applications using Angular, TypeScript, and Python, focusing on performance, reliability, and maintainability. I designed and implemented REST APIs, optimised database queries, and enhanced system stability through performance tuning.
-**Key Achievements**
+#### **Software Engineer | Full Stack**
+I played a key role in developing and optimising scalable software applications using Angular, TypeScript, and Python, focusing on performance, reliability, and maintainability. I designed and implemented REST APIs, optimised database queries, and enhanced system stability through performance tuning.
+#### **Key Achievements**
 - Developed and optimised scalable software applications using Angular, TypeScript, Python and Node.js ensuring high performance and reliability.
 - Designed and implemented REST APIs with Nest.js, improving modularity and maintainability.
 - Optimised TSQL database queries, enhancing eﬃciency and response times for better user experience.
